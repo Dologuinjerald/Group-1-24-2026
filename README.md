@@ -1,4 +1,4 @@
-Dologuin Jerald
+GROUP 1
 # Laboratory 1: Tools & Architecture Setup
 
 ## Description
